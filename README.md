@@ -1,4 +1,4 @@
-<h1 align="center">Hello ✨, I'm Numaan</h1>
+<h1 align="center">Hello 👋, I'm Numaan</h1>
 <h3 align="center">A CS UnderGrad '20 from Bits Pilani Dubai</h3>
 
 <p align="center">
