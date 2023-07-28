@@ -15,6 +15,14 @@
 - MERN Stack
 - App development (Flutter)
 - Cloud Architecture
+
+
+## Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,java,javascript,react" />
+  </a>
+</p>
   
 
 
