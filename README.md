@@ -1,7 +1,9 @@
 <h1 align="center">Hello ✨, I'm Numaan</h1>
 <h3 align="center">A CS UnderGrad '20 from Bits Pilani Dubai</h3>
 
-![image](https://github.com/iamnmk/iamnmk/assets/131992672/705ae83a-7c4b-47bd-aade-d684127e4cbe)
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 
 
 ## 💬 Ask me about
