@@ -17,10 +17,10 @@
 - Cloud Architecture
 
 
-## Languages and Tools
+##🔧 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,java,javascript,react" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,java,javascript,react,C,C++,aws,jenkins,terraform,linux,ubuntu,flutter,python,html,css,pug,oracle,mysql,mongodb,postgresql" />
   </a>
 </p>
   
