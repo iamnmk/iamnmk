@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Numaan</h1>
-<h3 align="center">A CS UnderGrad '20 from Bits Pilani Dubai</h3>
+<h3 align="center">A CS UnderGrad 20' from Birla Institute of Technology and Science </h3>
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
