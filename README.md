@@ -37,7 +37,9 @@
 ## 📚 Learning
 - DevOps 
 - Amazon Web Services
-- Oracle Cloud Infrastructure
+- Angular
+- Asp.net 7 Core
+  
 
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
