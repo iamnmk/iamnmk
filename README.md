@@ -15,6 +15,7 @@
 - MERN Stack
 - App development (Flutter)
 - Cloud Architecture
+- DevOps tools
 
 
 ## 🔧 Languages and Tools
@@ -32,7 +33,7 @@
 - Explore the world of programming
 
 ## 💻 Current project
-- 
+- Blog website using Angular and ASP.NET
 
 ## 📚 Learning
 - DevOps 
