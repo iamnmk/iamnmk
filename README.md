@@ -24,9 +24,6 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,java,javascript,react,c,aws,jenkins,mysql,linux,androidstudio,flutter,py,bootstrap,html,css,pug,mongodb,bash,dart,firebase,go,nodejs,php" />
   </a>
 </p>
-## 👋 LET'S CONNECT!
-  www.nmk-dev.com
-
 
 ## 📅 Hobbies
 - Creating projects to learn new things
@@ -41,7 +38,10 @@
 - Amazon Web Services
 - Angular
 - Asp.net 7 Core
-  
+
+<h2>LETS CONNECT on my Website! 👋</h2>
+  www.nmk-dev.com
+  https://www.linkedin.com/in/numaan-khan-a596252a7/
 
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
