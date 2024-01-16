@@ -40,7 +40,7 @@
 - Asp.net 7 Core
 
 <h2>LETS CONNECT on my Website! 👋</h2>
- <p><www.nmk-dev.com</p>
+  www.nmk-dev.com
    <br>
   https://www.linkedin.com/in/numaan-khan-a596252a7/
 
