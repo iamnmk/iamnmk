@@ -2,7 +2,7 @@
 <h3 align="center">A CS UnderGrad 20' from Birla Institute of Technology and Science </h3>
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="[https://github.com/demartini/demartini/blob/master/code.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
 </p>
 
 
