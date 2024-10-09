@@ -10,12 +10,13 @@
 - Linux (Ubuntu)
 - C, C++
 - JavaScript
-- Backend web development (Node.js, PHP)
-- Frontend web development (React.js)
+- Backend web development (Node.js, ASP.NET)
+- Frontend web development (React.js, Angular.js, Next.js)
 - MERN Stack
 - App development (Flutter)
 - Cloud Architecture
 - DevOps tools
+- Amazon Web Services
 
 
 ## 🔧 Languages and Tools
@@ -34,13 +35,11 @@
 - Blog website using Angular and ASP.NET
 
 ## 📚 Learning
-- DevOps 
-- Amazon Web Services
-- Angular
+
 - Asp.net 7 Core
 
 <h2>LETS CONNECT on my Website! 👋</h2>
-  www.nmk-dev.com
+  https://www.nmk-dev.com
    <br>
   https://www.linkedin.com/in/numaan-khan-a596252a7/
 
