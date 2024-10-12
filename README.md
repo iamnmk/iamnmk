@@ -27,16 +27,15 @@
 </p>
 
 ## 📅 Hobbies
+- Explore the world of devops and networking
 - Creating projects to learn new things
-- Playing Video Games
-- Explore the world of programming
-
-## 💻 Current project
-- Blog website using Angular and ASP.NET
+- Maintaining robust and streamlined processes in an infrastructure
+- Learning about every tech stack in order to be comfortable with deployment for any application.
+  
 
 ## 📚 Learning
 
-- Asp.net 7 Core
+- Generative AI in devops!
 
 <h2>LETS CONNECT on my Website! 👋</h2>
   https://www.nmk-dev.com
