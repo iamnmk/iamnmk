@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Numaan</h1>
-<h3 align="center">A CS UnderGrad 20' from Birla Institute of Technology and Science </h3>
+<h3 align="center">DevOps Engineer | Bachelors of Engineering CS Grad from Birla Institute of Technology and Science </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
@@ -7,22 +7,22 @@
 
 
 ## 💬 Ask me about
-- Linux (Ubuntu)
-- C, C++
-- JavaScript
-- Backend web development (Node.js, ASP.NET)
-- Frontend web development (React.js, Angular.js, Next.js)
-- MERN Stack
-- App development (Flutter)
-- Cloud Architecture
-- DevOps tools
-- Amazon Web Services
+- Linux (Ubuntu, Redhat) | Shell-scripting
+- Docker | Containerization
+- Kubernetes | Container Orchestration
+- CI/CD pipelines and Automation | Jenkins
+- Infrastructure as Code | Terraform, Ansible
+- Cloud Services (AWS, Azure, GCP, Oracle)
+- Grafana, Prometheus (Monitoring)
+- Backend development (Node.js, Express.js, ASP.NET)
+- Frontend development (React.js, Angular.js, Next.js)
+- Database management (Mongo Supabase, PostgreSQL)
 
 
 ## 🔧 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,java,javascript,react,c,aws,jenkins,mysql,linux,androidstudio,flutter,py,bootstrap,html,css,pug,mongodb,bash,dart,firebase,go,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform,typescript,nextjs,angular,azure,gcp,terraform,ansible,java,javascript,react,c,aws,jenkins,mysql,linux,grafana,prometheus,py,bootstrap,html,css,pug,mongodb,bash,dart,firebase,go,nodejs,php" />
   </a>
 </p>
 
