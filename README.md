@@ -22,7 +22,7 @@
 ## 🔧 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform,typescript,nextjs,angular,azure,gcp,terraform,ansible,java,javascript,react,c,aws,jenkins,mysql,linux,grafana,prometheus,py,bootstrap,html,css,pug,mongodb,bash,nodejs,oracle,helm,argocd" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform,typescript,nextjs,angular,azure,gcp,terraform,ansible,java,javascript,react,c,aws,jenkins,mysql,linux,grafana,prometheus,py,bootstrap,html,css,pug,mongodb,bash,nodejs,expressjs"/>
   </a>
 </p>
 
