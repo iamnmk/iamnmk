@@ -36,6 +36,8 @@
 ## 📚 Learning
 
 - Generative AI in devops!
+To see more of my recent projects visit : 
+https://www.github.com/sollvr
 
 <h2>LETS CONNECT on my Website! 👋</h2>
   https://www.nmk-dev.com
